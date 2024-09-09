@@ -24,3 +24,4 @@ JavaScript: Powers the game’s functionality, controlling game logic, user inte
 
 This project is ideal for anyone
 
+![s6](https://github.com/user-attachments/assets/b3b823c7-446b-496d-8567-37ec3dfd08e0)
